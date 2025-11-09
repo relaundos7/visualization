@@ -7,7 +7,7 @@
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 
-Visualization A: <p align="center"> <img src="top_parking_ticket_reasons_jan2024.png" style="width:50%;">
+Visualization A: <p align="center"> <img src="assignment_3_images/top_parking_ticket_reasons_jan2024.png" style="width:50%;">
 Visualization B:<p align="center"> <img src="assignment_3_images/top_20_toronto_ticket_streets_jan2024.png" style="width:50%;">
 
 - For each visualization, describe and justify: 
